@@ -6,7 +6,7 @@ HAVE FUN! 👻
 
 // Modify the colors of the slides here!
 $success: #8a4d76;
-// $white
+$white: #205d86;
 // $black
 // $light
 // $dark
@@ -20,7 +20,7 @@ $primary: #c0d6df;
 // Normal styling
 .text {
   @import url("https://fonts.googleapis.com/css?family=Lato:300");
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 2px;
   font-family: Lato, sans-serif;
   text-align: center;

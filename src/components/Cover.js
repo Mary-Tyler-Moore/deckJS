@@ -20,19 +20,11 @@ const textStore = {
   frames: [
     <iframe
       key="0"
-      src="https://ghbtns.com/github-btn.html?user=borjadotai&repo=deckjs&type=star&count=true&size=large"
+      src="https://cdn.cultofmac.com/wp-content/uploads/2013/06/noshredderinPassbook1.gif"
       frameborder="0"
       scrolling="0"
-      width="160px"
-      height="30px"
-    />,
-    <iframe
-      key="1"
-      src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=fork&size=large"
-      frameborder="0"
-      scrolling="0"
-      width="158px"
-      height="30px"
+      width="1000px"
+      height="2000px"
     />
   ]
 };
