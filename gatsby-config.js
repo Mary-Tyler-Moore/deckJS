@@ -1,9 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'DeckJS | Create your best presentations, as static webapps!',
+    title: "PMG Rentals | A beautiful application available on IOS and Android"
   },
-  plugins: [
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass'
-  ],
+  plugins: ["gatsby-plugin-react-helmet", "gatsby-plugin-sass"]
 };

@@ -20,7 +20,7 @@ const textStore = {
   frames: [
     <iframe
       key="0"
-      src="https://cdn.cultofmac.com/wp-content/uploads/2013/06/noshredderinPassbook1.gif"
+      //src="https://cdn.cultofmac.com/wp-content/uploads/2013/06/noshredderinPassbook1.gif"
       frameborder="0"
       scrolling="0"
       width="1000px"
@@ -39,10 +39,13 @@ const Cover = () => (
       <Container hasTextAlign="centered">
         <img src={logo} style={{ height: "12rem", margin: "0 0 2rem 0" }} />
         <Title className="is-size-2 is-size-4-mobile has-text-weight-light">
-          Create your best{" "}
-          <span className="has-text-weight-normal">presentation</span>, as a{" "}
-          <span className="has-text-weight-normal">static webapp</span> with{" "}
-          <span className="has-text-weight-normal">DeckJS</span>.
+          Now available on IOS and Android.{" "}
+          <span className="has-text-weight-normal">PMG Rentals</span>, a{" "}
+          <span className="has-text-weight-normal">beautiful</span> application{" "}
+          <span className="has-text-weight-normal">
+            created with React-Native
+          </span>
+          .
         </Title>
         <Title
           className="is-size-3 is-size-5-mobile has-text-weight-light"
