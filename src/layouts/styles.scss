@@ -5,20 +5,21 @@ HAVE FUN! 👻
 */
 
 // Modify the colors of the slides here!
-$success: #8A4D76;
+$success: #8a4d76;
 // $white
 // $black
 // $light
 // $dark
-// $primary
-// $link	
+//$primary: #dbe9ee;
+$primary: #c0d6df;
+// $link
 // $info
 // $warning
 // $danger
 
 // Normal styling
 .text {
-  @import url('https://fonts.googleapis.com/css?family=Lato:300');
+  @import url("https://fonts.googleapis.com/css?family=Lato:300");
   font-weight: 300;
   letter-spacing: 2px;
   font-family: Lato, sans-serif;
@@ -32,20 +33,20 @@ $success: #8A4D76;
 }
 
 .social-links:hover {
-  transform: scale(1.025)
+  transform: scale(1.025);
 }
 
 .npm {
-    font-size: 23px;
+  font-size: 23px;
 }
 
 .npm code {
-    background: #f5f5f5;
-    border-radius: 3px;
-    color: #00d1b2;
-    display: inline-block;
-    font-size: 16px;
-    padding: 16px 32px;
+  background: #f5f5f5;
+  border-radius: 3px;
+  color: #d1007a;
+  display: inline-block;
+  font-size: 16px;
+  padding: 16px 32px;
 }
 
 .isCentered {
